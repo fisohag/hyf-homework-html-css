@@ -1,0 +1,34 @@
+
+body {
+
+    padding: 0 10% 0 10%;
+    background-color:white;
+}
+
+h2   {
+    background-color: gray;
+padding: 10px, 10px;
+}
+
+p    {
+    color: white;
+    text-align: justify;
+    }
+
+table{
+    background-color: teal
+}
+ul
+{
+    color:green
+}
+
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+}
+
+ul {
+    color: aqua;
+}
